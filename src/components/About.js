@@ -23,7 +23,7 @@ const About = () => {
             unde dolor?
           </p>
           <a href="#about" className="btn">
-            read more
+            More about BackRoads?
           </a>
         </article>
       </div>
